@@ -2,6 +2,11 @@
 
 The "I Am Poor" app is a light-hearted and minimalist application that humorously embraces simplicity and contentment. It features a clean interface with a humble icon and message, serving as a reminder to appreciate life's essentials.
 
+# App screenshots 
+
+![Screenshot (127)](https://github.com/user-attachments/assets/ce0281e9-4f8a-4a26-a3de-cf1db099fd61)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
